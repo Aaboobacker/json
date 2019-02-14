@@ -20,7 +20,7 @@
     },
     "rating": 4.0
   },
-  {
+   {
     "name": "DATA LAKE",
     "url": "",
     "image": "",
@@ -46,7 +46,7 @@
     },
     "rating": 2.7
   },
- {
+   {
     "name": "UX DESIGN",
     "url": "",
     "image": "",
@@ -62,7 +62,7 @@
     },
     "rating": 0
   },
- {
+   {
     "name": "WHAT IF SIMULATOR",
     "url": "",
     "image": "",
@@ -79,3 +79,5 @@
     "rating": 0
   }
 ]
+
+
